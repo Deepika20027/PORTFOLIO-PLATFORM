@@ -15,7 +15,7 @@ A modern, responsive, and visually appealing Portfolio Website built to showcase
 - Version Control: Git & GitHub
 
   # Project Structure
-  ```
+ ```
 Portfolio-Platform/
 │── public/              # Images & assets
 │── styles/              # CSS files
@@ -23,6 +23,7 @@ Portfolio-Platform/
 │── index.html           # Main entry point
 │── package.json         # Project metadata
 │── tsconfig.json        # TypeScript config
+
 ```
 # Screenshots
 
