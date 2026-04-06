@@ -31,8 +31,7 @@ Portfolio-Platform/
 ![Screenshot](https://github.com/Deepika20027/PORTFOLIO-PLATFORM/blob/main/Screenshot%2017.png)
 ![Screenshot](https://github.com/Deepika20027/PORTFOLIO-PLATFORM/blob/main/Screenshot%2018.png)
 ![Screenshot](https://github.com/Deepika20027/PORTFOLIO-PLATFORM/blob/main/Screenshot%2019.png)
-![Screenshot](https://github.com/Deepika20027/PORTFOLIO-PLATFORM/blob/main/Screenshot%2015.png)
-![Screenshot](https://github.com/Deepika20027/PORTFOLIO-PLATFORM/blob/main/Screenshot%2015.png)
+![Screenshot](https://github.com/Deepika20027/PORTFOLIO-PLATFORM/blob/main/Screenshot%2020.png)
 
 # Future Enhancements
 
